@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Ali\Desktop\Churn Prediction\Churn-Prediction\churnenv"
+VIRTUAL_ENV="C:\Users\35799\Desktop\KU Leuven\Semester 2\Advanced Analytics in a Big Data World\Project\Churn-Prediction\churnenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Ali\Desktop\Churn Prediction\Churn-Prediction\churnenv
+set VIRTUAL_ENV=C:\Users\35799\Desktop\KU Leuven\Semester 2\Advanced Analytics in a Big Data World\Project\Churn-Prediction\churnenv
 
 if not defined PROMPT set PROMPT=$P$G
 
